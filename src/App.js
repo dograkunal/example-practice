@@ -5,6 +5,7 @@ function App() {
     <>
       <header className="head">Head data</header>
       <h3 className="base_back">Here is some sample data....</h3>
+      <h1>example eee</h1>
     </>
   );
 }
