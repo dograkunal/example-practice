@@ -5,3 +5,6 @@ function index() {
 }
 
 export default index;
+export const greetUserName = (name) => {
+  console.log(name + "hello how are you");
+};
