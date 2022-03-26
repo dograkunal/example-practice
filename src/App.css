@@ -1,0 +1,23 @@
+.head {
+  display: flex;
+  background: rgb(10, 82, 168);
+  background: linear-gradient(
+    90deg,
+    rgba(10, 82, 168, 1) 0%,
+    rgba(9, 117, 121, 0.8855917366946778) 19%,
+    rgba(6, 78, 166, 1) 70%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  padding: 30px;
+  justify-content: center;
+}
+
+.base_back {
+  margin: 0 auto;
+  display: flex;
+  height: 91.5vh;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(74, 76, 78, 0.808);
+}
